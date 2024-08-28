@@ -1,0 +1,29 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #ffffff;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+header {
+    background-color: #1d4a75;
+    color: rgb(0, 0, 0);
+    padding: 20px;
+}
+.content {
+    margin: 20px;
+    padding: 20px;
+    background-color: rgb(82, 118, 133);
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    margin-top: 20px;
+    cursor: pointer;
+    background-color: #c4c4c4;
+    color: rgb(255, 255, 255);
+    border: none;
+    border-radius: 5px;
+}
